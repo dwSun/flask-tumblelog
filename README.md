@@ -1,7 +1,7 @@
 A Flask Tumblelog
 =================
 
-The source code for the [Write a Tumblelog Application with Flask and MongoEngine](http://docs.mongodb.org/manual/tutorial/write-a-tumblelog-application-with-flask-mongoengine/)
+The source code for the [Write a Tumblelog Application with Flask and MongoEngine](https://docs.mongodb.com/ecosystem/tutorial/write-a-tumblelog-application-with-flask-mongoengine/)
 tutorial.
 
 Installation
@@ -12,7 +12,7 @@ Installation
   3. Install the required dependencies: `pip install -r requirements.txt`
 
 Run the tumblelog:
-   
+
     python manage.py runserver
 
 Goto: [http://localhost:5000](http://localhost:5000)
